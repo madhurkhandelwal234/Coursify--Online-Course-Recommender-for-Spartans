@@ -61,11 +61,11 @@ NOTE: We have limited data as of now. So course recommnedation will only work fo
 
 ## Interactive course load management:
 
-![] (http://imgur.com/WQGW6TB.gif)
+<img src="http://imgur.com/WQGW6TB.gif" width="35%"></img><br><br>
 
 ## Download the course plan:
 
-![] (http://imgur.com/dxnbkG5.gif)
+<img src="http://imgur.com/dxnbkG5.gif" width="35%"></img><br><br>
 
 ## License
 
